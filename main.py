@@ -37,5 +37,6 @@ def main():
 
 
 if __name__ == "__main__":
+    input()
     main()
 #221RDB103
